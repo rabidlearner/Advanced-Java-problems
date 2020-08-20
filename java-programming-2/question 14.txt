@@ -1,0 +1,4 @@
+Stack is ideal for recursion because of its LIFO (Last In First Out) property
+it remembers its calling object/function so knows whom to return when the 
+function has to return. Recursion makes use of system stack for storing the 
+return addresses of the function calls.

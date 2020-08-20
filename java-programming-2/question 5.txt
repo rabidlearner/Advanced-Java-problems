@@ -1,0 +1,9 @@
+The uses of a doubly linked list over a singly linked list is as follows:
+
+1) A DLL can be traversed in both forward and backward direction.
+
+2) The delete operation in DLL is more efficient if pointer to the node to be
+   deleted is given.
+
+3) We can quickly insert a new node before a given node.
+

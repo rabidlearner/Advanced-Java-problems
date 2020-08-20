@@ -1,0 +1,2 @@
+To implement priority queue we need two queues i.e. one is for storing the data 
+other one is accessing the next queue element.

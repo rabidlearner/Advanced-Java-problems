@@ -1,0 +1,7 @@
+Following are the applications of a Stack data structure:
+
+1. Stacks are used for expression evaluation.
+2. Stacks are used to check parenthesis matching in an expression.
+3. Stacks are used for Conversion from one form of expression to another.
+4. Stacks are used for Memory Management.
+5. Stack data structures are used in backtracking problems.

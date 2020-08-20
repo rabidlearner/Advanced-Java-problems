@@ -1,0 +1,5 @@
+Binary search tree is a special tree specifically used for searching. 
+It is a binary tree where the left child contains only nodes with values less
+than the parent node, and where the right child only contains nodes with values
+greater than or equal to the parent. Hence the search operation in a BST is 
+far less expensive than a binary tree.

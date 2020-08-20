@@ -1,0 +1,4 @@
+The main benefit of a linked list over an array is that the list elements can be
+easily inserted or removed without reallocation or reorganization of the entire
+structure because the data items need not be stored contiguously in memory or on
+disk, while restructuring an array at run-time is a much more expensive operation.

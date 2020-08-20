@@ -1,0 +1,4 @@
+Data Structures is a way of collecting, storing and organizing data in such a way
+that we can perform different operations in an effective way. Data Structures is 
+about redering data elements in terms of some relationship, for better organization
+and storage.

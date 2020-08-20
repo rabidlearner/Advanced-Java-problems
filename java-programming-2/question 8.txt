@@ -1,0 +1,5 @@
+The different traversal techniques in a tree are:
+1: Preorder
+2: Postorder
+3: Inorder
+4: Levelorder

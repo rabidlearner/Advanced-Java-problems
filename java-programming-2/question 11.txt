@@ -1,0 +1,5 @@
+Yes, Binary search is possible on the linked list if the list is sorted and we
+know the count of elements in list. But While sorting  the list, we can access 
+a single element at a time through a pointer to that node i.e. either a previous 
+node or next node. This increases the traversal steps per element in linked list 
+just to find the middle element. This also makes it slow and inefficient.

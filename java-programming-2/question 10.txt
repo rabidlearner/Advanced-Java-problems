@@ -1,0 +1,11 @@
+Three main applications of graph DS are:
+
+1. Google maps uses graphs for building transportation systems, where intersection
+of two(or more) roads are considered to be a vertex and the road connecting two 
+vertices is considered to be an edge.
+
+2. In Facebook, users are considered to be the vertices and if they are friends
+then there is an edge running between them.
+
+3. In World Wide Web, web pages are considered to be the vertices. There is an edge
+from a page u to other page v if there is a link of page v on page u.

@@ -1,0 +1,9 @@
+Difference between a stack and an array:
+
+Stack is a linear data structure in which insertion and deletion will take place
+at the top position alone. It follows LIFO order i.e. last in first out. The 
+element in the top most position alone can be retrieved.
+
+Array is also a linear data structure in which insertion and deletion can take place
+at any position. The elements can be retrieved randomly (i.e. at any positional
+order) in arrays.

@@ -1,0 +1,31 @@
+Following are common DS with their respective applications:
+
+1. Arrays : Implementation of other data structures, Execution of matrices and 
+            vectors, Dynamic memory allocation, Pointer container, Control tables.
+
+2. Stack: Evaluation of expressions, Backtracking, Runtime memory management, 
+          Arrangement of books in a library.
+
+3. Queue: Here, the data sent need not be received at the same rate at which it
+          was sent. A certain system resource is to be shared between different
+          processes.
+
+4. Linked-List: Representation of sparse matrices, Non-contiguous data storage, 
+                Implementation of non-binary tree or other data structures, 
+                Dynamic memory management, Equalizing parenthesis, Symbol tables.
+
+5. Set: Mapping of data, Common data storage.
+
+6. Graph: Computer networking, Problem solutions involving 'Depth-First' search or
+          'Breadth-First' search algorithms, Representation of matrices, Study of 
+          molecular interactions in Chemistry.
+
+7. Tree: Representation of data lists, Quickly accessible data storage, 
+         Representation of hierarchal data, Routing of algorithms.
+
+8. Hash-table: Unique data representation, Implementation of caches, Array 
+               association, Locating entries in a table, Representation of objects,
+               Database indexing.
+
+9. File: Implementation of computer programs, Data comparison, Storage of data
+         having varying data types.

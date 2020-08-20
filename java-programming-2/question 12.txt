@@ -1,0 +1,4 @@
+A memory leak can occur when a program allocates memory to an object which is no
+longer in use. It usually happens when developers forget to free the objects
+from the memory and thus there is a shortage of memory which could have been
+used for other purposes.
